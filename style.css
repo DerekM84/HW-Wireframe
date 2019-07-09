@@ -1,0 +1,57 @@
+body {
+    background-color:darkgrey;
+    font-family: 'Arial';
+    width: '960px';
+}
+
+.containers {
+    background-color: lightgrey;
+    color: darkgrey;
+    margin:5px;
+    text-align:center;
+    align-content:center;
+
+
+}
+
+.article {
+    background-color:darkgrey;
+    color:lightgrey;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 25px;
+}
+.header {
+    height: 10%;
+    margin:3%;
+    margin-bottom: 10px;
+
+}
+
+.nav {
+    height: 10%;
+    margin: 3%;
+}
+.section-container {
+    display:flex;
+    height:25%;
+}
+.section {
+width: 50%;
+}
+
+.headings {
+
+}
+.paragraph {
+
+}
+
+.aside {
+width: 50%;
+
+}
+.footer {
+    height:10%;
+}
